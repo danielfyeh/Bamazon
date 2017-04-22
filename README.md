@@ -1,6 +1,6 @@
 # Bamazon
 
-Basic requirements
+#Basic requirements
 
 Create a MySQL Database called Bamazon.
 Then create a Table inside of that database called products.
@@ -21,7 +21,7 @@ However, if your store does have enough of the product, you should fulfill the c
 This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, show the customer the total cost of their purchase.
 
-Technologies used
+#Technologies used
 MySQL workbench for database creation manipulation
 Node.js for user input
 javascript for code
